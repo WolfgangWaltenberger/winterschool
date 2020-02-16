@@ -1,7 +1,9 @@
 # winterschool
 
 <img src=https://vds-physics.univie.ac.at/fileadmin/user_upload/p_vd/VDS_Physics/Logo/VDS_700.png height="100">
-![HEPMeetsML](logo.jpeg)
+
+[HEPMeetsML](logo.jpeg)
+
 ![qrcode](qrcode.png)
 
 ESI Winter School Machine Learning in Physics, Vienna.
