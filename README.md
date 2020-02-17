@@ -6,6 +6,9 @@
 
 ![qrcode](qrcode.png)
 
+|--------------------------|--------------------------|-----------------------|
+| ![HEPMeetsML](logo.jpeg) | ![HEPMeetsML](logo.jpeg) | ![qrcode](qrcode.png) |
+
 ESI Winter School Machine Learning in Physics, Vienna.
 All material collected for the first part of the particle physics track of the school,
 corresponding to the lectures and tutorials given on Wednesday, Feb 19.
