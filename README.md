@@ -1,10 +1,4 @@
-# winterschool
-
-![VDS](VDS.png)
-
-![HEPMeetsML](logo.jpeg)
-
-![qrcode](qrcode.png)
+# ESI Winter School 2020
 
 |     VDS         |      HEP meets ML        |     QR code           |
 |-----------------|--------------------------|-----------------------|
